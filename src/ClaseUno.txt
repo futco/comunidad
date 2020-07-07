@@ -1,1 +1,2 @@
 esta es la modificacion de mi primer archivo
+le habia hecho falta un ; y por eso era el error
